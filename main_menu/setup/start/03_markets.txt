@@ -1,0 +1,1 @@
+market_manager = { add_market = london }
